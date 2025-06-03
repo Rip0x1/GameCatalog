@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\models\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|solutionrelative:gamelist\\models\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|solutionrelative:gamelist\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\views\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|solutionrelative:gamelist\\views\\registrationwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|solutionrelative:gamelist\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|solutionrelative:gamelist\\views\\adminwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A738FAA-DFF4-48A8-8160-06D72D0D18AE}|GameList\\GameList.csproj|c:\\users\\miracle 0x1\\downloads\\gamecatalog-main\\gamelist\\gamelist\\views\\gameslistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -141,19 +145,28 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Models\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "GameList\\Models\\DatabaseService.cs",
+              "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Models\\DatabaseService.cs",
+              "RelativeToolTip": "GameList\\Models\\DatabaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:45:28.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RegistrationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\RegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "GameList\\Views\\RegistrationWindow.xaml.cs",
@@ -165,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\Views\\LoginWindow.xaml",
@@ -176,19 +189,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "RegistrationWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\RegistrationWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\Views\\RegistrationWindow.xaml",
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\RegistrationWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\RegistrationWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T08:04:41.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:04:41.763Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReviewsAndRecommendationsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\ReviewsAndRecommendationsWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\Views\\ReviewsAndRecommendationsWindow.xaml",
@@ -199,18 +211,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\Views\\AdminWindow.xaml",
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T06:11:56.789Z"
+              "WhenOpened": "2025-06-03T06:11:56.789Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "GamesListWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\GamesListWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\Views\\GamesListWindow.xaml",
@@ -221,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "GameList\\Views\\AdminWindow.xaml.cs",
@@ -233,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\MainWindow.xaml",
               "RelativeDocumentMoniker": "GameList\\MainWindow.xaml",
@@ -244,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ReviewsAndRecommendationsWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\ReviewsAndRecommendationsWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\ReviewsAndRecommendationsWindow.xaml",
@@ -255,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AdminWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\AdminWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\AdminWindow.xaml",
@@ -266,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\MainWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\MainWindow.xaml",
@@ -277,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "RegistrationWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\RegistrationWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\RegistrationWindow.xaml",
@@ -288,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\LoginWindow.xaml",
@@ -299,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "GamesListWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\GamesListWindow.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\GamesListWindow.xaml",
@@ -310,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ReviewsAndRecommendationsWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\ReviewsAndRecommendationsWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\ReviewsAndRecommendationsWindow.xaml.cs",
@@ -322,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\Views\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\Views\\LoginWindow.xaml.cs",
@@ -333,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "RegistrationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\Views\\RegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\Views\\RegistrationWindow.xaml.cs",
@@ -344,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\Desktop\\WpfApp1 \u2014 beta\\WpfApp1\\MainWindow.xaml.cs",
@@ -355,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "GameList.csproj",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\GameList.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\GameList.csproj",
@@ -366,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ReviewsAndRecommendationsWindow.g.i.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\obj\\Debug\\net8.0-windows\\Views\\ReviewsAndRecommendationsWindow.g.i.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\obj\\Debug\\net8.0-windows\\Views\\ReviewsAndRecommendationsWindow.g.i.cs",
@@ -378,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "AdminWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\AdminWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\AdminWindow.xaml.cs",
@@ -390,7 +403,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Game.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Game.cs",
@@ -402,7 +415,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Genre.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Genre.cs",
@@ -414,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Review.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\Review.cs",
@@ -426,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\User.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\User.cs",
@@ -438,7 +451,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\AssemblyInfo.cs",
@@ -450,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "BooleanToVisibilityConverter.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\BooleanToVisibilityConverter.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\BooleanToVisibilityConverter.cs",
@@ -462,7 +475,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Styles.g.i.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\obj\\Debug\\net8.0-windows\\Resources\\Styles.g.i.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\obj\\Debug\\net8.0-windows\\Resources\\Styles.g.i.cs",
@@ -474,7 +487,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "GamesListWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\GamesListWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\GamesListWindow.xaml.cs",
@@ -486,7 +499,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\LoginWindow.xaml.cs",
@@ -498,7 +511,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "RegistrationWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\RegistrationWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Views\\RegistrationWindow.xaml.cs",
@@ -510,7 +523,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Rip0x\\.nuget\\packages\\materialdesigncolors\\3.1.0\\docs\\README.md",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\.nuget\\packages\\materialdesigncolors\\3.1.0\\docs\\README.md",
@@ -523,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "README.md",
               "DocumentMoniker": "C:\\Users\\Rip0x\\.nuget\\packages\\materialdesignthemes\\5.1.0\\docs\\README.md",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\.nuget\\packages\\materialdesignthemes\\5.1.0\\docs\\README.md",
@@ -536,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "MaterialDesignThemes.targets",
               "DocumentMoniker": "C:\\Users\\Rip0x\\.nuget\\packages\\materialdesignthemes\\5.1.0\\build\\MaterialDesignThemes.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Rip0x\\.nuget\\packages\\materialdesignthemes\\5.1.0\\build\\MaterialDesignThemes.targets",
@@ -549,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\App.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\App.xaml.cs",
@@ -561,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Styles.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml.cs",
@@ -573,7 +586,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "DatabaseService.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\DatabaseService.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Models\\DatabaseService.cs",
@@ -585,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\App.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\App.xaml",
@@ -596,7 +609,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "Styles.xaml",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\Resources\\Styles.xaml",
@@ -607,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "GameList.csproj",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\GameList.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\GameList.csproj",
@@ -619,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Miracle 0x1\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Documents\\\u0412\u0430\u0436\u043D\u043E\\\u0423\u0447\u0435\u0431\u043D\u044B\u0435 \u0446\u0435\u043B\u0438\\\u0423\u0447\u0451\u0431\u0430\\3 \u043A\u0443\u0440\u0441\\\u0420\u0418\u0421\u041F\u041E\\\u0418\u0437\u043C\u0435\u043D\u0435\u043D\u043D\u0430\u044F\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",

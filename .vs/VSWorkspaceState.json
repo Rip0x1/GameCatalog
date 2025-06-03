@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\GameList",
+    "\\GameList\\GameList",
+    "\\GameList\\GameList\\Views"
   ],
-  "SelectedNode": "\\GameList.sln",
+  "SelectedNode": "\\GameList\\GameList\\Views\\AdminWindow.xaml",
   "PreviewInSolutionExplorer": false
 }

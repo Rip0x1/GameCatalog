@@ -8,7 +8,7 @@ namespace WpfApp1.Services
 {
     public class DatabaseService
     {
-        private string connectionString = "server=localhost;database=programma;uid=root;pwd=;";
+        private string connectionString = "server=localhost;database=programma;uid=root;pwd=root;";
 
         public void OpenConnection(MySqlConnection connection)
         {
