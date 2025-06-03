@@ -141,11 +141,15 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -157,8 +161,7 @@
               "RelativeToolTip": "GameList\\Views\\RegistrationWindow.xaml.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAvwEMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T08:17:01.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:17:01.175Z"
             },
             {
               "$type": "Document",
@@ -169,8 +172,7 @@
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\LoginWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T08:04:47.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:04:47.227Z"
             },
             {
               "$type": "Document",
@@ -193,8 +195,7 @@
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\ReviewsAndRecommendationsWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\ReviewsAndRecommendationsWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T08:04:31.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:04:31.897Z"
             },
             {
               "$type": "Document",
@@ -205,8 +206,7 @@
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\AdminWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\AdminWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T06:11:56.789Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:11:56.789Z"
             },
             {
               "$type": "Document",
@@ -217,8 +217,7 @@
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\Views\\GamesListWindow.xaml",
               "RelativeToolTip": "GameList\\Views\\GamesListWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T06:11:55.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:11:55.972Z"
             },
             {
               "$type": "Document",
@@ -230,8 +229,7 @@
               "RelativeToolTip": "GameList\\Views\\AdminWindow.xaml.cs",
               "ViewState": "AgIAAIwAAAAAAAAAAAAUwKMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T08:10:50.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T08:10:50.504Z"
             },
             {
               "$type": "Document",
@@ -242,8 +240,7 @@
               "ToolTip": "C:\\Users\\Miracle 0x1\\Downloads\\GameCatalog-main\\GameList\\GameList\\MainWindow.xaml",
               "RelativeToolTip": "GameList\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-03T06:11:44.49Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T06:11:44.49Z"
             },
             {
               "$type": "Document",
