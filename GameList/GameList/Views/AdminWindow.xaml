@@ -1,0 +1,86 @@
+﻿<Window x:Class="WpfApp1.AdminWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Администратор" Height="760" Width="1000"
+        Style="{StaticResource MaterialDesignWindow}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid Background="#F5F5F5" Margin="10">
+        <TabControl FontFamily="Segoe UI" FontSize="14" >
+            <TabItem Header="Управление играми" Padding="10">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <StackPanel Margin="10" Background="White"
+                                Effect="{DynamicResource MaterialDesignElevationShadow}">
+
+                        <TextBlock Text="Добавить игру" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" Foreground="#333"/>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="ID игры (для редактирования и удаления)" Margin="0,0,0,5" />
+                            <TextBox Name="GameIDTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="Название" Margin="0,0,0,5" />
+                            <TextBox Name="TitleTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="Жанр (ID)" Margin="0,0,0,5" />
+                            <TextBox Name="GenreIDTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="Рейтинг" Margin="0,0,0,5" />
+                            <TextBox Name="RatingTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="Платформа" Margin="0,0,0,5" />
+                            <TextBox Name="PlatformTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,10">
+                            <TextBlock Text="Описание" Margin="0,0,0,5" />
+                            <TextBox Name="DescriptionTextBox" Height="100" Padding="5" TextWrapping="Wrap" AcceptsReturn="True"
+                                     BorderBrush="#888" BorderThickness="1"  VerticalScrollBarVisibility="Auto"/>
+                        </StackPanel>
+
+                        <StackPanel Margin="0,0,0,20">
+                            <TextBlock Text="Дата выхода" Margin="0,0,0,5" />
+                            <DatePicker Name="ReleaseDatePicker" Height="30" BorderBrush="#888" BorderThickness="1" />
+                        </StackPanel>
+
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Left" >
+                            <Button Content="Добавить игру" Margin="0,0,15,0" Padding="10,5"
+                                    Background="#2196F3" Foreground="White" BorderThickness="0" 
+                                    Cursor="Hand" Click="AddGameButton_Click"
+                                    Style="{StaticResource MaterialDesignRaisedButton}" />
+                            <Button Content="Редактировать игру" Margin="0,0,15,0" Padding="10,5"
+                                    Background="#FF9800" Foreground="White" BorderThickness="0" 
+                                    Cursor="Hand" Click="EditGameButton_Click"
+                                    Style="{StaticResource MaterialDesignRaisedButton}" />
+                            <Button Content="Удалить игру" Padding="10,5"
+                                    Background="#F44336" Foreground="White" BorderThickness="0" 
+                                    Cursor="Hand" Click="DeleteGameButton_Click"
+                                    Style="{StaticResource MaterialDesignRaisedButton}" />
+                        </StackPanel>
+                    </StackPanel>
+                </ScrollViewer>
+            </TabItem>
+
+            <TabItem Header="Управление жанрами" Padding="10">
+                <StackPanel Margin="10" Background="White"
+                            Effect="{DynamicResource MaterialDesignElevationShadow}">
+
+                    <TextBlock Text="Добавить жанр" FontSize="24" FontWeight="Bold" Margin="0,0,0,20" Foreground="#333"/>
+
+                    <TextBlock Text="Название жанра" Margin="0,0,0,5"/>
+                    <TextBox Name="GenreNameTextBox" Height="30" Padding="5" BorderBrush="#888" BorderThickness="1"  Margin="0,0,0,15"/>
+
+                    <Button Content="Добавить жанр" Padding="10,5"
+                            Background="#4CAF50" Foreground="White" BorderThickness="0"
+                            Cursor="Hand" Click="AddGenreButton_Click"
+                            Style="{StaticResource MaterialDesignRaisedButton}"/>
+                </StackPanel>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

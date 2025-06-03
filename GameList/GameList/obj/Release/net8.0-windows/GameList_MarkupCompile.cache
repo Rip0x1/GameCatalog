@@ -1,0 +1,20 @@
+﻿GameList
+
+
+winexe
+C#
+.cs
+C:\Users\Miracle 0x1\Downloads\GameCatalog-main\GameList\GameList\obj\Release\net8.0-windows\
+GameList
+none
+false
+TRACE;RELEASE;NET;NET8_0;NETCOREAPP
+C:\Users\Miracle 0x1\Downloads\GameCatalog-main\GameList\GameList\App.xaml
+7-1723695480
+1-1917497577
+16-1027087795
+2092113623365
+MainWindow.xaml;Resources\Styles.xaml;Views\AdminWindow.xaml;Views\GamesListWindow.xaml;Views\LoginWindow.xaml;Views\RegistrationWindow.xaml;Views\ReviewsAndRecommendationsWindow.xaml;
+
+False
+

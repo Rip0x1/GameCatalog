@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApp1.GamesListWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Список игр" Height="450" Width="720"
+        Style="{StaticResource MaterialDesignWindow}" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="#FAFAFA">
+    <Grid Margin="10">
+        <Border BorderThickness="1" BorderBrush="#B0BEC5" CornerRadius="10" Background="White" Padding="10"
+                Effect="{DynamicResource MaterialDesignElevationShadow4}">
+            <ListView Name="GamesListView" SelectionChanged="GamesListView_SelectionChanged">
+                <ListView.View>
+                    <GridView>
+                        <GridViewColumn Header="Название" DisplayMemberBinding="{Binding Title}" Width="180"/>
+                        <GridViewColumn Header="Жанр" DisplayMemberBinding="{Binding GenreID}" Width="150"/>
+                        <GridViewColumn Header="Рейтинг" DisplayMemberBinding="{Binding Rating}" Width="120"/>
+                        <GridViewColumn Header="Дата выхода" DisplayMemberBinding="{Binding ReleaseDate}" Width="200"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Border>
+    </Grid>
+</Window>
